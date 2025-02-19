@@ -17,7 +17,7 @@ int main(){
     // Hasing array 
     int hashArray[12] = {0} ;
     for(int i = 0 ; i < arrSize ; i++){
-        hashArray[arr[i]] += 1 ;
+        hashArray[arr[i]] = hashArray[arr[i]]+1 ;
 
     }
 
