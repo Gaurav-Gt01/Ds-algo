@@ -1,3 +1,9 @@
+/*
+Q. You are given a string which has various words you have to
+ return a string only with the words reversed and not the entire string reversed .
+*/
+
+
 # include <iostream>
 using namespace std;
 // reverse a string 
