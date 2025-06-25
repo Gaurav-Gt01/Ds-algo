@@ -1,3 +1,7 @@
+// TC = O(N)
+// SC = O(N)
+// N = number of nodes 
+
 /**
  * Definition for a binary tree node.
  * struct TreeNode {
